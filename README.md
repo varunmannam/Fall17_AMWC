@@ -9,3 +9,10 @@ Projects include:
 3. Mixer design
 
 4. LNA design
+
+
+
+## License & Copyright
+© 2017 Varun Mannam, University of Notre Dame
+
+Licensed under the [GPL](https://github.com/varunmannam/Fall17_AMWC/blob/master/LICENSE)
